@@ -1,2 +1,0 @@
-C:\Users\Eldar\source\repos\4laba4\4laba4\x64\Debug\4laba4.vcxproj.AssemblyReference.cache
-C:\Users\lacke\source\repos\4laba4\4laba4\x64\Debug\4laba4.vcxproj.AssemblyReference.cache
